@@ -13,15 +13,29 @@ async function loadCharacters(): Promise<Character[]> {
   }
 
   try {
-    // In production, this would read from a database
-    // For now, we'll read from the public JSON file
-    const fs = await import('fs/promises');
-    const path = await import('path');
-
-    const filePath = path.join(process.cwd(), 'public', 'animeCharacters.json');
-    const fileContent = await fs.readFile(filePath, 'utf-8');
-    charactersCache = JSON.parse(fileContent);
-
+    const dataUrl = process.env.CHARACTERS_DATA_URL;
+    
+    if (dataUrl) {
+      // Production: fetch from hosted URL
+      console.log('🌐 Fetching characters from URL:', dataUrl);
+      const response = await fetch(dataUrl);
+      if (!response.ok) {
+        throw new Error(`Failed to fetch from URL: ${response.statusText}`);
+      }
+      const data = await response.json();
+      charactersCache = data;
+    } else {
+      // Development: read from local file system
+      console.log('📁 Reading characters from local file system');
+      const fs = await import('fs/promises');
+      const path = await import('path');
+      
+      const filePath = path.join(process.cwd(), 'public', 'animeCharacters.json');
+      const fileContent = await fs.readFile(filePath, 'utf-8');
+      charactersCache = JSON.parse(fileContent);
+    }
+    
+    console.log('✅ Characters loaded successfully:', charactersCache?.length, 'items');
     return charactersCache!;
   } catch (error) {
     console.error('Error loading characters:', error);
