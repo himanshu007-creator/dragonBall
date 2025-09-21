@@ -1,0 +1,7001 @@
+[{
+        "id": "char_1",
+        "name": "Akimaru",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5889
+    },
+    {
+        "id": "char_2",
+        "name": "Akisuke",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 6064
+    },
+    {
+        "id": "char_3",
+        "name": "Akihiko",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6206
+    },
+    {
+        "id": "char_4",
+        "name": "Akitaro",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4265
+    },
+    {
+        "id": "char_5",
+        "name": "Akimi",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6497
+    },
+    {
+        "id": "char_6",
+        "name": "Akishi",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4680
+    },
+    {
+        "id": "char_7",
+        "name": "Akiya",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2368
+    },
+    {
+        "id": "char_8",
+        "name": "Akiko",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 6284
+    },
+    {
+        "id": "char_9",
+        "name": "Akito",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4406
+    },
+    {
+        "id": "char_10",
+        "name": "Akinobu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 2773
+    },
+    {
+        "id": "char_11",
+        "name": "Akizumi",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9039
+    },
+    {
+        "id": "char_12",
+        "name": "Akihira",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 3353
+    },
+    {
+        "id": "char_13",
+        "name": "Akisada",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 7128
+    },
+    {
+        "id": "char_14",
+        "name": "Akiyoshi",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2735
+    },
+    {
+        "id": "char_15",
+        "name": "Akikane",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 5205
+    },
+    {
+        "id": "char_16",
+        "name": "Akiharu",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8473
+    },
+    {
+        "id": "char_17",
+        "name": "Akimura",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 5701
+    },
+    {
+        "id": "char_18",
+        "name": "Akitaka",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4765
+    },
+    {
+        "id": "char_19",
+        "name": "Akiichi",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8444
+    },
+    {
+        "id": "char_20",
+        "name": "Akijun",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8768
+    },
+    {
+        "id": "char_21",
+        "name": "Rinmaru",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 6552
+    },
+    {
+        "id": "char_22",
+        "name": "Rinsuke",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 332
+    },
+    {
+        "id": "char_23",
+        "name": "Rinhiko",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6245
+    },
+    {
+        "id": "char_24",
+        "name": "Rintaro",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 9915
+    },
+    {
+        "id": "char_25",
+        "name": "Rinmi",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 1211
+    },
+    {
+        "id": "char_26",
+        "name": "Rinshi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8388
+    },
+    {
+        "id": "char_27",
+        "name": "Rinya",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4021
+    },
+    {
+        "id": "char_28",
+        "name": "Rinko",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 9217
+    },
+    {
+        "id": "char_29",
+        "name": "Rinto",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 8253
+    },
+    {
+        "id": "char_30",
+        "name": "Rinnobu",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 4227
+    },
+    {
+        "id": "char_31",
+        "name": "Rinzumi",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2687
+    },
+    {
+        "id": "char_32",
+        "name": "Rinhira",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1869
+    },
+    {
+        "id": "char_33",
+        "name": "Rinsada",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 8993
+    },
+    {
+        "id": "char_34",
+        "name": "Rinyoshi",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 2888
+    },
+    {
+        "id": "char_35",
+        "name": "Rinkane",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 197
+    },
+    {
+        "id": "char_36",
+        "name": "Rinharu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 3669
+    },
+    {
+        "id": "char_37",
+        "name": "Rinmura",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 4582
+    },
+    {
+        "id": "char_38",
+        "name": "Rintaka",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1045
+    },
+    {
+        "id": "char_39",
+        "name": "Rinichi",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 399
+    },
+    {
+        "id": "char_40",
+        "name": "Rinjun",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 1047
+    },
+    {
+        "id": "char_41",
+        "name": "Hiromaru",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4016
+    },
+    {
+        "id": "char_42",
+        "name": "Hirosuke",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 6588
+    },
+    {
+        "id": "char_43",
+        "name": "Hirohiko",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 4170
+    },
+    {
+        "id": "char_44",
+        "name": "Hirotaro",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7412
+    },
+    {
+        "id": "char_45",
+        "name": "Hiromi",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 402
+    },
+    {
+        "id": "char_46",
+        "name": "Hiroshi",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2456
+    },
+    {
+        "id": "char_47",
+        "name": "Hiroya",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 4777
+    },
+    {
+        "id": "char_48",
+        "name": "Hiroko",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9740
+    },
+    {
+        "id": "char_49",
+        "name": "Hiroto",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2960
+    },
+    {
+        "id": "char_50",
+        "name": "Hironobu",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9556
+    },
+    {
+        "id": "char_51",
+        "name": "Hirozumi",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 712
+    },
+    {
+        "id": "char_52",
+        "name": "Hirohira",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1187
+    },
+    {
+        "id": "char_53",
+        "name": "Hirosada",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 2708
+    },
+    {
+        "id": "char_54",
+        "name": "Hiroyoshi",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 4892
+    },
+    {
+        "id": "char_55",
+        "name": "Hirokane",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7288
+    },
+    {
+        "id": "char_56",
+        "name": "Hiroharu",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 2298
+    },
+    {
+        "id": "char_57",
+        "name": "Hiromura",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2132
+    },
+    {
+        "id": "char_58",
+        "name": "Hirotaka",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 6917
+    },
+    {
+        "id": "char_59",
+        "name": "Hiroichi",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 3328
+    },
+    {
+        "id": "char_60",
+        "name": "Hirojun",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 2720
+    },
+    {
+        "id": "char_61",
+        "name": "Kazemaru",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 9139
+    },
+    {
+        "id": "char_62",
+        "name": "Kazesuke",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 7304
+    },
+    {
+        "id": "char_63",
+        "name": "Kazehiko",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 1922
+    },
+    {
+        "id": "char_64",
+        "name": "Kazetaro",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 879
+    },
+    {
+        "id": "char_65",
+        "name": "Kazemi",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 3112
+    },
+    {
+        "id": "char_66",
+        "name": "Kazeshi",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6196
+    },
+    {
+        "id": "char_67",
+        "name": "Kazeya",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 3042
+    },
+    {
+        "id": "char_68",
+        "name": "Kazeko",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 4489
+    },
+    {
+        "id": "char_69",
+        "name": "Kazeto",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 1365
+    },
+    {
+        "id": "char_70",
+        "name": "Kazenobu",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 260
+    },
+    {
+        "id": "char_71",
+        "name": "Kazezumi",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 196
+    },
+    {
+        "id": "char_72",
+        "name": "Kazehira",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 3942
+    },
+    {
+        "id": "char_73",
+        "name": "Kazesada",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 4162
+    },
+    {
+        "id": "char_74",
+        "name": "Kazeyoshi",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3293
+    },
+    {
+        "id": "char_75",
+        "name": "Kazekane",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 311
+    },
+    {
+        "id": "char_76",
+        "name": "Kazeharu",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 6532
+    },
+    {
+        "id": "char_77",
+        "name": "Kazemura",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5415
+    },
+    {
+        "id": "char_78",
+        "name": "Kazetaka",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8725
+    },
+    {
+        "id": "char_79",
+        "name": "Kazeichi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 1229
+    },
+    {
+        "id": "char_80",
+        "name": "Kazejun",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 3481
+    },
+    {
+        "id": "char_81",
+        "name": "Toshimaru",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 6779
+    },
+    {
+        "id": "char_82",
+        "name": "Toshisuke",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 5038
+    },
+    {
+        "id": "char_83",
+        "name": "Toshihiko",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 3194
+    },
+    {
+        "id": "char_84",
+        "name": "Toshitaro",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 5553
+    },
+    {
+        "id": "char_85",
+        "name": "Toshimi",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6955
+    },
+    {
+        "id": "char_86",
+        "name": "Toshishi",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 1361
+    },
+    {
+        "id": "char_87",
+        "name": "Toshiya",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 1617
+    },
+    {
+        "id": "char_88",
+        "name": "Toshiko",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9482
+    },
+    {
+        "id": "char_89",
+        "name": "Toshito",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4380
+    },
+    {
+        "id": "char_90",
+        "name": "Toshinobu",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 4228
+    },
+    {
+        "id": "char_91",
+        "name": "Toshizumi",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9220
+    },
+    {
+        "id": "char_92",
+        "name": "Toshihira",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 9875
+    },
+    {
+        "id": "char_93",
+        "name": "Toshisada",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5002
+    },
+    {
+        "id": "char_94",
+        "name": "Toshiyoshi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 2439
+    },
+    {
+        "id": "char_95",
+        "name": "Toshikane",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 3794
+    },
+    {
+        "id": "char_96",
+        "name": "Toshiharu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 5061
+    },
+    {
+        "id": "char_97",
+        "name": "Toshimura",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4447
+    },
+    {
+        "id": "char_98",
+        "name": "Toshitaka",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6098
+    },
+    {
+        "id": "char_99",
+        "name": "Toshiichi",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2604
+    },
+    {
+        "id": "char_100",
+        "name": "Toshijun",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6224
+    },
+    {
+        "id": "char_101",
+        "name": "Minamaru",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4455
+    },
+    {
+        "id": "char_102",
+        "name": "Minasuke",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2469
+    },
+    {
+        "id": "char_103",
+        "name": "Minahiko",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9659
+    },
+    {
+        "id": "char_104",
+        "name": "Minataro",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4302
+    },
+    {
+        "id": "char_105",
+        "name": "Minami",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 255
+    },
+    {
+        "id": "char_106",
+        "name": "Minashi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7985
+    },
+    {
+        "id": "char_107",
+        "name": "Minaya",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 4878
+    },
+    {
+        "id": "char_108",
+        "name": "Minako",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5706
+    },
+    {
+        "id": "char_109",
+        "name": "Minato",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 5150
+    },
+    {
+        "id": "char_110",
+        "name": "Minanobu",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 1888
+    },
+    {
+        "id": "char_111",
+        "name": "Minazumi",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5784
+    },
+    {
+        "id": "char_112",
+        "name": "Minahira",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 103
+    },
+    {
+        "id": "char_113",
+        "name": "Minasada",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2350
+    },
+    {
+        "id": "char_114",
+        "name": "Minayoshi",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5623
+    },
+    {
+        "id": "char_115",
+        "name": "Minakane",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 8739
+    },
+    {
+        "id": "char_116",
+        "name": "Minaharu",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 1726
+    },
+    {
+        "id": "char_117",
+        "name": "Minamura",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 1467
+    },
+    {
+        "id": "char_118",
+        "name": "Minataka",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9707
+    },
+    {
+        "id": "char_119",
+        "name": "Minaichi",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2422
+    },
+    {
+        "id": "char_120",
+        "name": "Minajun",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3247
+    },
+    {
+        "id": "char_121",
+        "name": "Kuromaru",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1122
+    },
+    {
+        "id": "char_122",
+        "name": "Kurosuke",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6742
+    },
+    {
+        "id": "char_123",
+        "name": "Kurohiko",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2038
+    },
+    {
+        "id": "char_124",
+        "name": "Kurotaro",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5715
+    },
+    {
+        "id": "char_125",
+        "name": "Kuromi",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2003
+    },
+    {
+        "id": "char_126",
+        "name": "Kuroshi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 9899
+    },
+    {
+        "id": "char_127",
+        "name": "Kuroya",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 8409
+    },
+    {
+        "id": "char_128",
+        "name": "Kuroko",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 7246
+    },
+    {
+        "id": "char_129",
+        "name": "Kuroto",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 6963
+    },
+    {
+        "id": "char_130",
+        "name": "Kuronobu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 6763
+    },
+    {
+        "id": "char_131",
+        "name": "Kurozumi",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7151
+    },
+    {
+        "id": "char_132",
+        "name": "Kurohira",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 3945
+    },
+    {
+        "id": "char_133",
+        "name": "Kurosada",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 870
+    },
+    {
+        "id": "char_134",
+        "name": "Kuroyoshi",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 6068
+    },
+    {
+        "id": "char_135",
+        "name": "Kurokane",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2293
+    },
+    {
+        "id": "char_136",
+        "name": "Kuroharu",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7952
+    },
+    {
+        "id": "char_137",
+        "name": "Kuromura",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1521
+    },
+    {
+        "id": "char_138",
+        "name": "Kurotaka",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6767
+    },
+    {
+        "id": "char_139",
+        "name": "Kuroichi",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7259
+    },
+    {
+        "id": "char_140",
+        "name": "Kurojun",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 6361
+    },
+    {
+        "id": "char_141",
+        "name": "Shinmaru",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 888
+    },
+    {
+        "id": "char_142",
+        "name": "Shinsuke",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2646
+    },
+    {
+        "id": "char_143",
+        "name": "Shinhiko",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2209
+    },
+    {
+        "id": "char_144",
+        "name": "Shintaro",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6539
+    },
+    {
+        "id": "char_145",
+        "name": "Shinmi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 590
+    },
+    {
+        "id": "char_146",
+        "name": "Shinshi",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 8376
+    },
+    {
+        "id": "char_147",
+        "name": "Shinya",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 1614
+    },
+    {
+        "id": "char_148",
+        "name": "Shinko",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 3447
+    },
+    {
+        "id": "char_149",
+        "name": "Shinto",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 2363
+    },
+    {
+        "id": "char_150",
+        "name": "Shinnobu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 9375
+    },
+    {
+        "id": "char_151",
+        "name": "Shinzumi",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4636
+    },
+    {
+        "id": "char_152",
+        "name": "Shinhira",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 729
+    },
+    {
+        "id": "char_153",
+        "name": "Shinsada",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 9192
+    },
+    {
+        "id": "char_154",
+        "name": "Shinyoshi",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 2507
+    },
+    {
+        "id": "char_155",
+        "name": "Shinkane",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 8395
+    },
+    {
+        "id": "char_156",
+        "name": "Shinharu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 939
+    },
+    {
+        "id": "char_157",
+        "name": "Shinmura",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2622
+    },
+    {
+        "id": "char_158",
+        "name": "Shintaka",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4810
+    },
+    {
+        "id": "char_159",
+        "name": "Shinichi",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 9857
+    },
+    {
+        "id": "char_160",
+        "name": "Shinjun",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 7635
+    },
+    {
+        "id": "char_161",
+        "name": "Yukimaru",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 8176
+    },
+    {
+        "id": "char_162",
+        "name": "Yukisuke",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 504
+    },
+    {
+        "id": "char_163",
+        "name": "Yukihiko",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2013
+    },
+    {
+        "id": "char_164",
+        "name": "Yukitaro",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4206
+    },
+    {
+        "id": "char_165",
+        "name": "Yukimi",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3995
+    },
+    {
+        "id": "char_166",
+        "name": "Yukishi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7959
+    },
+    {
+        "id": "char_167",
+        "name": "Yukiya",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6430
+    },
+    {
+        "id": "char_168",
+        "name": "Yukiko",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 7449
+    },
+    {
+        "id": "char_169",
+        "name": "Yukito",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8898
+    },
+    {
+        "id": "char_170",
+        "name": "Yukinobu",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1143
+    },
+    {
+        "id": "char_171",
+        "name": "Yukizumi",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5949
+    },
+    {
+        "id": "char_172",
+        "name": "Yukihira",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7745
+    },
+    {
+        "id": "char_173",
+        "name": "Yukisada",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1722
+    },
+    {
+        "id": "char_174",
+        "name": "Yukiyoshi",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 9899
+    },
+    {
+        "id": "char_175",
+        "name": "Yukikane",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 1944
+    },
+    {
+        "id": "char_176",
+        "name": "Yukiharu",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 9979
+    },
+    {
+        "id": "char_177",
+        "name": "Yukimura",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 8960
+    },
+    {
+        "id": "char_178",
+        "name": "Yukitaka",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2220
+    },
+    {
+        "id": "char_179",
+        "name": "Yukiichi",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 1747
+    },
+    {
+        "id": "char_180",
+        "name": "Yukijun",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 7902
+    },
+    {
+        "id": "char_181",
+        "name": "Nobumaru",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4698
+    },
+    {
+        "id": "char_182",
+        "name": "Nobusuke",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 247
+    },
+    {
+        "id": "char_183",
+        "name": "Nobuhiko",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1915
+    },
+    {
+        "id": "char_184",
+        "name": "Nobutaro",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9918
+    },
+    {
+        "id": "char_185",
+        "name": "Nobumi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 9049
+    },
+    {
+        "id": "char_186",
+        "name": "Nobushi",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1473
+    },
+    {
+        "id": "char_187",
+        "name": "Nobuya",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7925
+    },
+    {
+        "id": "char_188",
+        "name": "Nobuko",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 4120
+    },
+    {
+        "id": "char_189",
+        "name": "Nobuto",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3143
+    },
+    {
+        "id": "char_190",
+        "name": "Nobunobu",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 2850
+    },
+    {
+        "id": "char_191",
+        "name": "Nobuzumi",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 8694
+    },
+    {
+        "id": "char_192",
+        "name": "Nobuhira",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2266
+    },
+    {
+        "id": "char_193",
+        "name": "Nobusada",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3239
+    },
+    {
+        "id": "char_194",
+        "name": "Nobuyoshi",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 2209
+    },
+    {
+        "id": "char_195",
+        "name": "Nobukane",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 2124
+    },
+    {
+        "id": "char_196",
+        "name": "Nobuharu",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 6834
+    },
+    {
+        "id": "char_197",
+        "name": "Nobumura",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 851
+    },
+    {
+        "id": "char_198",
+        "name": "Nobutaka",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 633
+    },
+    {
+        "id": "char_199",
+        "name": "Nobuichi",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8533
+    },
+    {
+        "id": "char_200",
+        "name": "Nobujun",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 3405
+    },
+    {
+        "id": "char_201",
+        "name": "Soramaru",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9996
+    },
+    {
+        "id": "char_202",
+        "name": "Sorasuke",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 3071
+    },
+    {
+        "id": "char_203",
+        "name": "Sorahiko",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 9577
+    },
+    {
+        "id": "char_204",
+        "name": "Sorataro",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4713
+    },
+    {
+        "id": "char_205",
+        "name": "Sorami",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 3982
+    },
+    {
+        "id": "char_206",
+        "name": "Sorashi",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7630
+    },
+    {
+        "id": "char_207",
+        "name": "Soraya",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 8757
+    },
+    {
+        "id": "char_208",
+        "name": "Sorako",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8448
+    },
+    {
+        "id": "char_209",
+        "name": "Sorato",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5727
+    },
+    {
+        "id": "char_210",
+        "name": "Soranobu",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5167
+    },
+    {
+        "id": "char_211",
+        "name": "Sorazumi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 3275
+    },
+    {
+        "id": "char_212",
+        "name": "Sorahira",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7765
+    },
+    {
+        "id": "char_213",
+        "name": "Sorasada",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6924
+    },
+    {
+        "id": "char_214",
+        "name": "Sorayoshi",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3588
+    },
+    {
+        "id": "char_215",
+        "name": "Sorakane",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4156
+    },
+    {
+        "id": "char_216",
+        "name": "Soraharu",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 3005
+    },
+    {
+        "id": "char_217",
+        "name": "Soramura",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1919
+    },
+    {
+        "id": "char_218",
+        "name": "Sorataka",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 8723
+    },
+    {
+        "id": "char_219",
+        "name": "Soraichi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7674
+    },
+    {
+        "id": "char_220",
+        "name": "Sorajun",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 9480
+    },
+    {
+        "id": "char_221",
+        "name": "Ryomaru",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 443
+    },
+    {
+        "id": "char_222",
+        "name": "Ryosuke",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9284
+    },
+    {
+        "id": "char_223",
+        "name": "Ryohiko",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 7378
+    },
+    {
+        "id": "char_224",
+        "name": "Ryotaro",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 1849
+    },
+    {
+        "id": "char_225",
+        "name": "Ryomi",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 2018
+    },
+    {
+        "id": "char_226",
+        "name": "Ryoshi",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 3703
+    },
+    {
+        "id": "char_227",
+        "name": "Ryoya",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9892
+    },
+    {
+        "id": "char_228",
+        "name": "Ryoko",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 8338
+    },
+    {
+        "id": "char_229",
+        "name": "Ryoto",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5973
+    },
+    {
+        "id": "char_230",
+        "name": "Ryonobu",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 740
+    },
+    {
+        "id": "char_231",
+        "name": "Ryozumi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1861
+    },
+    {
+        "id": "char_232",
+        "name": "Ryohira",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3739
+    },
+    {
+        "id": "char_233",
+        "name": "Ryosada",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9405
+    },
+    {
+        "id": "char_234",
+        "name": "Ryoyoshi",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 3106
+    },
+    {
+        "id": "char_235",
+        "name": "Ryokane",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 7289
+    },
+    {
+        "id": "char_236",
+        "name": "Ryoharu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1203
+    },
+    {
+        "id": "char_237",
+        "name": "Ryomura",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 9595
+    },
+    {
+        "id": "char_238",
+        "name": "Ryotaka",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 3026
+    },
+    {
+        "id": "char_239",
+        "name": "Ryoichi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 761
+    },
+    {
+        "id": "char_240",
+        "name": "Ryojun",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 3932
+    },
+    {
+        "id": "char_241",
+        "name": "Hanamaru",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 1602
+    },
+    {
+        "id": "char_242",
+        "name": "Hanasuke",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6724
+    },
+    {
+        "id": "char_243",
+        "name": "Hanahiko",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5617
+    },
+    {
+        "id": "char_244",
+        "name": "Hanataro",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 588
+    },
+    {
+        "id": "char_245",
+        "name": "Hanami",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9450
+    },
+    {
+        "id": "char_246",
+        "name": "Hanashi",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6349
+    },
+    {
+        "id": "char_247",
+        "name": "Hanaya",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3210
+    },
+    {
+        "id": "char_248",
+        "name": "Hanako",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 8169
+    },
+    {
+        "id": "char_249",
+        "name": "Hanato",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 1093
+    },
+    {
+        "id": "char_250",
+        "name": "Hananobu",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1406
+    },
+    {
+        "id": "char_251",
+        "name": "Hanazumi",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6046
+    },
+    {
+        "id": "char_252",
+        "name": "Hanahira",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4938
+    },
+    {
+        "id": "char_253",
+        "name": "Hanasada",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6380
+    },
+    {
+        "id": "char_254",
+        "name": "Hanayoshi",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 286
+    },
+    {
+        "id": "char_255",
+        "name": "Hanakane",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 8343
+    },
+    {
+        "id": "char_256",
+        "name": "Hanaharu",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 2290
+    },
+    {
+        "id": "char_257",
+        "name": "Hanamura",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1343
+    },
+    {
+        "id": "char_258",
+        "name": "Hanataka",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 2747
+    },
+    {
+        "id": "char_259",
+        "name": "Hanaichi",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 2413
+    },
+    {
+        "id": "char_260",
+        "name": "Hanajun",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1093
+    },
+    {
+        "id": "char_261",
+        "name": "Kenmaru",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 2241
+    },
+    {
+        "id": "char_262",
+        "name": "Kensuke",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2853
+    },
+    {
+        "id": "char_263",
+        "name": "Kenhiko",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 4487
+    },
+    {
+        "id": "char_264",
+        "name": "Kentaro",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7945
+    },
+    {
+        "id": "char_265",
+        "name": "Kenmi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5160
+    },
+    {
+        "id": "char_266",
+        "name": "Kenshi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5010
+    },
+    {
+        "id": "char_267",
+        "name": "Kenya",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 931
+    },
+    {
+        "id": "char_268",
+        "name": "Kenko",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 217
+    },
+    {
+        "id": "char_269",
+        "name": "Kento",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 7868
+    },
+    {
+        "id": "char_270",
+        "name": "Kennobu",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 1395
+    },
+    {
+        "id": "char_271",
+        "name": "Kenzumi",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6927
+    },
+    {
+        "id": "char_272",
+        "name": "Kenhira",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1135
+    },
+    {
+        "id": "char_273",
+        "name": "Kensada",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 6554
+    },
+    {
+        "id": "char_274",
+        "name": "Kenyoshi",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5292
+    },
+    {
+        "id": "char_275",
+        "name": "Kenkane",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 7310
+    },
+    {
+        "id": "char_276",
+        "name": "Kenharu",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6715
+    },
+    {
+        "id": "char_277",
+        "name": "Kenmura",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 383
+    },
+    {
+        "id": "char_278",
+        "name": "Kentaka",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 7045
+    },
+    {
+        "id": "char_279",
+        "name": "Kenichi",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 8749
+    },
+    {
+        "id": "char_280",
+        "name": "Kenjun",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 151
+    },
+    {
+        "id": "char_281",
+        "name": "Takumimaru",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1935
+    },
+    {
+        "id": "char_282",
+        "name": "Takumisuke",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2472
+    },
+    {
+        "id": "char_283",
+        "name": "Takumihiko",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7663
+    },
+    {
+        "id": "char_284",
+        "name": "Takumitaro",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5145
+    },
+    {
+        "id": "char_285",
+        "name": "Takumimi",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 8225
+    },
+    {
+        "id": "char_286",
+        "name": "Takumishi",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6765
+    },
+    {
+        "id": "char_287",
+        "name": "Takumiya",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6816
+    },
+    {
+        "id": "char_288",
+        "name": "Takumiko",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 8199
+    },
+    {
+        "id": "char_289",
+        "name": "Takumito",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4764
+    },
+    {
+        "id": "char_290",
+        "name": "Takuminobu",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5110
+    },
+    {
+        "id": "char_291",
+        "name": "Takumizumi",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 5878
+    },
+    {
+        "id": "char_292",
+        "name": "Takumihira",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 7767
+    },
+    {
+        "id": "char_293",
+        "name": "Takumisada",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7767
+    },
+    {
+        "id": "char_294",
+        "name": "Takumiyoshi",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5756
+    },
+    {
+        "id": "char_295",
+        "name": "Takumikane",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3880
+    },
+    {
+        "id": "char_296",
+        "name": "Takumiharu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7446
+    },
+    {
+        "id": "char_297",
+        "name": "Takumimura",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2858
+    },
+    {
+        "id": "char_298",
+        "name": "Takumitaka",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6304
+    },
+    {
+        "id": "char_299",
+        "name": "Takumiichi",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 7688
+    },
+    {
+        "id": "char_300",
+        "name": "Takumijun",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 1621
+    },
+    {
+        "id": "char_301",
+        "name": "Daichimaru",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6547
+    },
+    {
+        "id": "char_302",
+        "name": "Daichisuke",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8365
+    },
+    {
+        "id": "char_303",
+        "name": "Daichihiko",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8891
+    },
+    {
+        "id": "char_304",
+        "name": "Daichitaro",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7897
+    },
+    {
+        "id": "char_305",
+        "name": "Daichimi",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3110
+    },
+    {
+        "id": "char_306",
+        "name": "Daichishi",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 3179
+    },
+    {
+        "id": "char_307",
+        "name": "Daichiya",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5806
+    },
+    {
+        "id": "char_308",
+        "name": "Daichiko",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7880
+    },
+    {
+        "id": "char_309",
+        "name": "Daichito",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 605
+    },
+    {
+        "id": "char_310",
+        "name": "Daichinobu",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3889
+    },
+    {
+        "id": "char_311",
+        "name": "Daichizumi",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 2294
+    },
+    {
+        "id": "char_312",
+        "name": "Daichihira",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7155
+    },
+    {
+        "id": "char_313",
+        "name": "Daichisada",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 1445
+    },
+    {
+        "id": "char_314",
+        "name": "Daichiyoshi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 1823
+    },
+    {
+        "id": "char_315",
+        "name": "Daichikane",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 7483
+    },
+    {
+        "id": "char_316",
+        "name": "Daichiharu",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 140
+    },
+    {
+        "id": "char_317",
+        "name": "Daichimura",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 9651
+    },
+    {
+        "id": "char_318",
+        "name": "Daichitaka",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 5244
+    },
+    {
+        "id": "char_319",
+        "name": "Daichiichi",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2657
+    },
+    {
+        "id": "char_320",
+        "name": "Daichijun",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6839
+    },
+    {
+        "id": "char_321",
+        "name": "Kaorumaru",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 1040
+    },
+    {
+        "id": "char_322",
+        "name": "Kaorusuke",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 9813
+    },
+    {
+        "id": "char_323",
+        "name": "Kaoruhiko",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 7033
+    },
+    {
+        "id": "char_324",
+        "name": "Kaorutaro",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 4561
+    },
+    {
+        "id": "char_325",
+        "name": "Kaorumi",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 2799
+    },
+    {
+        "id": "char_326",
+        "name": "Kaorushi",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 4147
+    },
+    {
+        "id": "char_327",
+        "name": "Kaoruya",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 6270
+    },
+    {
+        "id": "char_328",
+        "name": "Kaoruko",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2247
+    },
+    {
+        "id": "char_329",
+        "name": "Kaoruto",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 2399
+    },
+    {
+        "id": "char_330",
+        "name": "Kaorunobu",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5450
+    },
+    {
+        "id": "char_331",
+        "name": "Kaoruzumi",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9851
+    },
+    {
+        "id": "char_332",
+        "name": "Kaoruhira",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 5929
+    },
+    {
+        "id": "char_333",
+        "name": "Kaorusada",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 3640
+    },
+    {
+        "id": "char_334",
+        "name": "Kaoruyoshi",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 6695
+    },
+    {
+        "id": "char_335",
+        "name": "Kaorukane",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2402
+    },
+    {
+        "id": "char_336",
+        "name": "Kaoruharu",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 2067
+    },
+    {
+        "id": "char_337",
+        "name": "Kaorumura",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6150
+    },
+    {
+        "id": "char_338",
+        "name": "Kaorutaka",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 968
+    },
+    {
+        "id": "char_339",
+        "name": "Kaoruichi",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 3933
+    },
+    {
+        "id": "char_340",
+        "name": "Kaorujun",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 6547
+    },
+    {
+        "id": "char_341",
+        "name": "Suzumaru",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4694
+    },
+    {
+        "id": "char_342",
+        "name": "Suzusuke",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 6511
+    },
+    {
+        "id": "char_343",
+        "name": "Suzuhiko",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 8998
+    },
+    {
+        "id": "char_344",
+        "name": "Suzutaro",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 1022
+    },
+    {
+        "id": "char_345",
+        "name": "Suzumi",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 3467
+    },
+    {
+        "id": "char_346",
+        "name": "Suzushi",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 1653
+    },
+    {
+        "id": "char_347",
+        "name": "Suzuya",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 5843
+    },
+    {
+        "id": "char_348",
+        "name": "Suzuko",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 8300
+    },
+    {
+        "id": "char_349",
+        "name": "Suzuto",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3554
+    },
+    {
+        "id": "char_350",
+        "name": "Suzunobu",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 7799
+    },
+    {
+        "id": "char_351",
+        "name": "Suzuzumi",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 9887
+    },
+    {
+        "id": "char_352",
+        "name": "Suzuhira",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5010
+    },
+    {
+        "id": "char_353",
+        "name": "Suzusada",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 5841
+    },
+    {
+        "id": "char_354",
+        "name": "Suzuyoshi",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 5029
+    },
+    {
+        "id": "char_355",
+        "name": "Suzukane",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 9054
+    },
+    {
+        "id": "char_356",
+        "name": "Suzuharu",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 9723
+    },
+    {
+        "id": "char_357",
+        "name": "Suzumura",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 8559
+    },
+    {
+        "id": "char_358",
+        "name": "Suzutaka",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 9080
+    },
+    {
+        "id": "char_359",
+        "name": "Suzuichi",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 2877
+    },
+    {
+        "id": "char_360",
+        "name": "Suzujun",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 863
+    },
+    {
+        "id": "char_361",
+        "name": "Renmaru",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9936
+    },
+    {
+        "id": "char_362",
+        "name": "Rensuke",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7440
+    },
+    {
+        "id": "char_363",
+        "name": "Renhiko",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 9969
+    },
+    {
+        "id": "char_364",
+        "name": "Rentaro",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 9580
+    },
+    {
+        "id": "char_365",
+        "name": "Renmi",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 6963
+    },
+    {
+        "id": "char_366",
+        "name": "Renshi",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5249
+    },
+    {
+        "id": "char_367",
+        "name": "Renya",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3855
+    },
+    {
+        "id": "char_368",
+        "name": "Renko",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8941
+    },
+    {
+        "id": "char_369",
+        "name": "Rento",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 3272
+    },
+    {
+        "id": "char_370",
+        "name": "Rennobu",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2909
+    },
+    {
+        "id": "char_371",
+        "name": "Renzumi",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 4742
+    },
+    {
+        "id": "char_372",
+        "name": "Renhira",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3330
+    },
+    {
+        "id": "char_373",
+        "name": "Rensada",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7334
+    },
+    {
+        "id": "char_374",
+        "name": "Renyoshi",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4596
+    },
+    {
+        "id": "char_375",
+        "name": "Renkane",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4788
+    },
+    {
+        "id": "char_376",
+        "name": "Renharu",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5902
+    },
+    {
+        "id": "char_377",
+        "name": "Renmura",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6271
+    },
+    {
+        "id": "char_378",
+        "name": "Rentaka",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 728
+    },
+    {
+        "id": "char_379",
+        "name": "Renichi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 6046
+    },
+    {
+        "id": "char_380",
+        "name": "Renjun",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 2117
+    },
+    {
+        "id": "char_381",
+        "name": "Katsumaru",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1417
+    },
+    {
+        "id": "char_382",
+        "name": "Katsusuke",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 9988
+    },
+    {
+        "id": "char_383",
+        "name": "Katsuhiko",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 7851
+    },
+    {
+        "id": "char_384",
+        "name": "Katsutaro",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 2397
+    },
+    {
+        "id": "char_385",
+        "name": "Katsumi",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 5601
+    },
+    {
+        "id": "char_386",
+        "name": "Katsushi",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 868
+    },
+    {
+        "id": "char_387",
+        "name": "Katsuya",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 995
+    },
+    {
+        "id": "char_388",
+        "name": "Katsuko",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 1694
+    },
+    {
+        "id": "char_389",
+        "name": "Katsuto",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 1077
+    },
+    {
+        "id": "char_390",
+        "name": "Katsunobu",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 3381
+    },
+    {
+        "id": "char_391",
+        "name": "Katsuzumi",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5216
+    },
+    {
+        "id": "char_392",
+        "name": "Katsuhira",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 403
+    },
+    {
+        "id": "char_393",
+        "name": "Katsusada",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 7877
+    },
+    {
+        "id": "char_394",
+        "name": "Katsuyoshi",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 5435
+    },
+    {
+        "id": "char_395",
+        "name": "Katsukane",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 8609
+    },
+    {
+        "id": "char_396",
+        "name": "Katsuharu",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 3928
+    },
+    {
+        "id": "char_397",
+        "name": "Katsumura",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 7556
+    },
+    {
+        "id": "char_398",
+        "name": "Katsutaka",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2853
+    },
+    {
+        "id": "char_399",
+        "name": "Katsuichi",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5660
+    },
+    {
+        "id": "char_400",
+        "name": "Katsujun",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 3155
+    },
+    {
+        "id": "char_401",
+        "name": "Akimaru2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 6811
+    },
+    {
+        "id": "char_402",
+        "name": "Akisuke2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 4418
+    },
+    {
+        "id": "char_403",
+        "name": "Akihiko2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 8145
+    },
+    {
+        "id": "char_404",
+        "name": "Akitaro2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9191
+    },
+    {
+        "id": "char_405",
+        "name": "Akimi2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 1561
+    },
+    {
+        "id": "char_406",
+        "name": "Akishi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 4462
+    },
+    {
+        "id": "char_407",
+        "name": "Akiya2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6946
+    },
+    {
+        "id": "char_408",
+        "name": "Akiko2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 286
+    },
+    {
+        "id": "char_409",
+        "name": "Akito2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 8281
+    },
+    {
+        "id": "char_410",
+        "name": "Akinobu2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2242
+    },
+    {
+        "id": "char_411",
+        "name": "Akizumi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8599
+    },
+    {
+        "id": "char_412",
+        "name": "Akihira2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 9722
+    },
+    {
+        "id": "char_413",
+        "name": "Akisada2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 6272
+    },
+    {
+        "id": "char_414",
+        "name": "Akiyoshi2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 8025
+    },
+    {
+        "id": "char_415",
+        "name": "Akikane2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3937
+    },
+    {
+        "id": "char_416",
+        "name": "Akiharu2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 2698
+    },
+    {
+        "id": "char_417",
+        "name": "Akimura2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 6213
+    },
+    {
+        "id": "char_418",
+        "name": "Akitaka2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4223
+    },
+    {
+        "id": "char_419",
+        "name": "Akiichi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 5407
+    },
+    {
+        "id": "char_420",
+        "name": "Akijun2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5510
+    },
+    {
+        "id": "char_421",
+        "name": "Rinmaru2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 6309
+    },
+    {
+        "id": "char_422",
+        "name": "Rinsuke2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 1410
+    },
+    {
+        "id": "char_423",
+        "name": "Rinhiko2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 4105
+    },
+    {
+        "id": "char_424",
+        "name": "Rintaro2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 7038
+    },
+    {
+        "id": "char_425",
+        "name": "Rinmi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 855
+    },
+    {
+        "id": "char_426",
+        "name": "Rinshi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 9792
+    },
+    {
+        "id": "char_427",
+        "name": "Rinya2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7829
+    },
+    {
+        "id": "char_428",
+        "name": "Rinko2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6970
+    },
+    {
+        "id": "char_429",
+        "name": "Rinto2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3982
+    },
+    {
+        "id": "char_430",
+        "name": "Rinnobu2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 2275
+    },
+    {
+        "id": "char_431",
+        "name": "Rinzumi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8193
+    },
+    {
+        "id": "char_432",
+        "name": "Rinhira2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1146
+    },
+    {
+        "id": "char_433",
+        "name": "Rinsada2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6376
+    },
+    {
+        "id": "char_434",
+        "name": "Rinyoshi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 415
+    },
+    {
+        "id": "char_435",
+        "name": "Rinkane2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 3000
+    },
+    {
+        "id": "char_436",
+        "name": "Rinharu2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1042
+    },
+    {
+        "id": "char_437",
+        "name": "Rinmura2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7560
+    },
+    {
+        "id": "char_438",
+        "name": "Rintaka2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6187
+    },
+    {
+        "id": "char_439",
+        "name": "Rinichi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6558
+    },
+    {
+        "id": "char_440",
+        "name": "Rinjun2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7617
+    },
+    {
+        "id": "char_441",
+        "name": "Hiromaru2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 6851
+    },
+    {
+        "id": "char_442",
+        "name": "Hirosuke2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4045
+    },
+    {
+        "id": "char_443",
+        "name": "Hirohiko2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1862
+    },
+    {
+        "id": "char_444",
+        "name": "Hirotaro2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1055
+    },
+    {
+        "id": "char_445",
+        "name": "Hiromi2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 713
+    },
+    {
+        "id": "char_446",
+        "name": "Hiroshi2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4677
+    },
+    {
+        "id": "char_447",
+        "name": "Hiroya2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 659
+    },
+    {
+        "id": "char_448",
+        "name": "Hiroko2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 9161
+    },
+    {
+        "id": "char_449",
+        "name": "Hiroto2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6462
+    },
+    {
+        "id": "char_450",
+        "name": "Hironobu2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1696
+    },
+    {
+        "id": "char_451",
+        "name": "Hirozumi2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 656
+    },
+    {
+        "id": "char_452",
+        "name": "Hirohira2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5617
+    },
+    {
+        "id": "char_453",
+        "name": "Hirosada2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 3241
+    },
+    {
+        "id": "char_454",
+        "name": "Hiroyoshi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7250
+    },
+    {
+        "id": "char_455",
+        "name": "Hirokane2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 5449
+    },
+    {
+        "id": "char_456",
+        "name": "Hiroharu2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8871
+    },
+    {
+        "id": "char_457",
+        "name": "Hiromura2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7476
+    },
+    {
+        "id": "char_458",
+        "name": "Hirotaka2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6188
+    },
+    {
+        "id": "char_459",
+        "name": "Hiroichi2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 2451
+    },
+    {
+        "id": "char_460",
+        "name": "Hirojun2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1202
+    },
+    {
+        "id": "char_461",
+        "name": "Kazemaru2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8238
+    },
+    {
+        "id": "char_462",
+        "name": "Kazesuke2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4622
+    },
+    {
+        "id": "char_463",
+        "name": "Kazehiko2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5840
+    },
+    {
+        "id": "char_464",
+        "name": "Kazetaro2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 6236
+    },
+    {
+        "id": "char_465",
+        "name": "Kazemi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4351
+    },
+    {
+        "id": "char_466",
+        "name": "Kazeshi2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4801
+    },
+    {
+        "id": "char_467",
+        "name": "Kazeya2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2115
+    },
+    {
+        "id": "char_468",
+        "name": "Kazeko2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4320
+    },
+    {
+        "id": "char_469",
+        "name": "Kazeto2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 4063
+    },
+    {
+        "id": "char_470",
+        "name": "Kazenobu2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5751
+    },
+    {
+        "id": "char_471",
+        "name": "Kazezumi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5414
+    },
+    {
+        "id": "char_472",
+        "name": "Kazehira2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4139
+    },
+    {
+        "id": "char_473",
+        "name": "Kazesada2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8088
+    },
+    {
+        "id": "char_474",
+        "name": "Kazeyoshi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 8803
+    },
+    {
+        "id": "char_475",
+        "name": "Kazekane2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 9836
+    },
+    {
+        "id": "char_476",
+        "name": "Kazeharu2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7052
+    },
+    {
+        "id": "char_477",
+        "name": "Kazemura2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7199
+    },
+    {
+        "id": "char_478",
+        "name": "Kazetaka2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2416
+    },
+    {
+        "id": "char_479",
+        "name": "Kazeichi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 3616
+    },
+    {
+        "id": "char_480",
+        "name": "Kazejun2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1578
+    },
+    {
+        "id": "char_481",
+        "name": "Toshimaru2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 9564
+    },
+    {
+        "id": "char_482",
+        "name": "Toshisuke2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7596
+    },
+    {
+        "id": "char_483",
+        "name": "Toshihiko2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 299
+    },
+    {
+        "id": "char_484",
+        "name": "Toshitaro2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4088
+    },
+    {
+        "id": "char_485",
+        "name": "Toshimi2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 8161
+    },
+    {
+        "id": "char_486",
+        "name": "Toshishi2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 2130
+    },
+    {
+        "id": "char_487",
+        "name": "Toshiya2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5791
+    },
+    {
+        "id": "char_488",
+        "name": "Toshiko2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7493
+    },
+    {
+        "id": "char_489",
+        "name": "Toshito2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3608
+    },
+    {
+        "id": "char_490",
+        "name": "Toshinobu2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 8728
+    },
+    {
+        "id": "char_491",
+        "name": "Toshizumi2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9012
+    },
+    {
+        "id": "char_492",
+        "name": "Toshihira2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 4754
+    },
+    {
+        "id": "char_493",
+        "name": "Toshisada2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7337
+    },
+    {
+        "id": "char_494",
+        "name": "Toshiyoshi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6412
+    },
+    {
+        "id": "char_495",
+        "name": "Toshikane2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7139
+    },
+    {
+        "id": "char_496",
+        "name": "Toshiharu2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 8548
+    },
+    {
+        "id": "char_497",
+        "name": "Toshimura2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3554
+    },
+    {
+        "id": "char_498",
+        "name": "Toshitaka2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 6509
+    },
+    {
+        "id": "char_499",
+        "name": "Toshiichi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 3804
+    },
+    {
+        "id": "char_500",
+        "name": "Toshijun2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7260
+    },
+    {
+        "id": "char_501",
+        "name": "Minamaru2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 8483
+    },
+    {
+        "id": "char_502",
+        "name": "Minasuke2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4752
+    },
+    {
+        "id": "char_503",
+        "name": "Minahiko2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 9400
+    },
+    {
+        "id": "char_504",
+        "name": "Minataro2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 3041
+    },
+    {
+        "id": "char_505",
+        "name": "Minami2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 5503
+    },
+    {
+        "id": "char_506",
+        "name": "Minashi2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 6023
+    },
+    {
+        "id": "char_507",
+        "name": "Minaya2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 5364
+    },
+    {
+        "id": "char_508",
+        "name": "Minako2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7331
+    },
+    {
+        "id": "char_509",
+        "name": "Minato2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 8742
+    },
+    {
+        "id": "char_510",
+        "name": "Minanobu2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 3392
+    },
+    {
+        "id": "char_511",
+        "name": "Minazumi2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 5126
+    },
+    {
+        "id": "char_512",
+        "name": "Minahira2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 1546
+    },
+    {
+        "id": "char_513",
+        "name": "Minasada2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 6615
+    },
+    {
+        "id": "char_514",
+        "name": "Minayoshi2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2295
+    },
+    {
+        "id": "char_515",
+        "name": "Minakane2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 5551
+    },
+    {
+        "id": "char_516",
+        "name": "Minaharu2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6591
+    },
+    {
+        "id": "char_517",
+        "name": "Minamura2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 121
+    },
+    {
+        "id": "char_518",
+        "name": "Minataka2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4401
+    },
+    {
+        "id": "char_519",
+        "name": "Minaichi2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5274
+    },
+    {
+        "id": "char_520",
+        "name": "Minajun2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 8803
+    },
+    {
+        "id": "char_521",
+        "name": "Kuromaru2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5905
+    },
+    {
+        "id": "char_522",
+        "name": "Kurosuke2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8836
+    },
+    {
+        "id": "char_523",
+        "name": "Kurohiko2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5813
+    },
+    {
+        "id": "char_524",
+        "name": "Kurotaro2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3402
+    },
+    {
+        "id": "char_525",
+        "name": "Kuromi2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4988
+    },
+    {
+        "id": "char_526",
+        "name": "Kuroshi2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4638
+    },
+    {
+        "id": "char_527",
+        "name": "Kuroya2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 429
+    },
+    {
+        "id": "char_528",
+        "name": "Kuroko2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 9763
+    },
+    {
+        "id": "char_529",
+        "name": "Kuroto2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2242
+    },
+    {
+        "id": "char_530",
+        "name": "Kuronobu2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 2707
+    },
+    {
+        "id": "char_531",
+        "name": "Kurozumi2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 5337
+    },
+    {
+        "id": "char_532",
+        "name": "Kurohira2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9271
+    },
+    {
+        "id": "char_533",
+        "name": "Kurosada2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9345
+    },
+    {
+        "id": "char_534",
+        "name": "Kuroyoshi2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 3523
+    },
+    {
+        "id": "char_535",
+        "name": "Kurokane2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1945
+    },
+    {
+        "id": "char_536",
+        "name": "Kuroharu2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5473
+    },
+    {
+        "id": "char_537",
+        "name": "Kuromura2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 8748
+    },
+    {
+        "id": "char_538",
+        "name": "Kurotaka2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5491
+    },
+    {
+        "id": "char_539",
+        "name": "Kuroichi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4774
+    },
+    {
+        "id": "char_540",
+        "name": "Kurojun2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6299
+    },
+    {
+        "id": "char_541",
+        "name": "Shinmaru2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4642
+    },
+    {
+        "id": "char_542",
+        "name": "Shinsuke2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 490
+    },
+    {
+        "id": "char_543",
+        "name": "Shinhiko2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 1444
+    },
+    {
+        "id": "char_544",
+        "name": "Shintaro2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 4675
+    },
+    {
+        "id": "char_545",
+        "name": "Shinmi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4693
+    },
+    {
+        "id": "char_546",
+        "name": "Shinshi2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 3833
+    },
+    {
+        "id": "char_547",
+        "name": "Shinya2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 9597
+    },
+    {
+        "id": "char_548",
+        "name": "Shinko2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9106
+    },
+    {
+        "id": "char_549",
+        "name": "Shinto2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 1706
+    },
+    {
+        "id": "char_550",
+        "name": "Shinnobu2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 1294
+    },
+    {
+        "id": "char_551",
+        "name": "Shinzumi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 9576
+    },
+    {
+        "id": "char_552",
+        "name": "Shinhira2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2774
+    },
+    {
+        "id": "char_553",
+        "name": "Shinsada2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 7539
+    },
+    {
+        "id": "char_554",
+        "name": "Shinyoshi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 5561
+    },
+    {
+        "id": "char_555",
+        "name": "Shinkane2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6101
+    },
+    {
+        "id": "char_556",
+        "name": "Shinharu2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 5437
+    },
+    {
+        "id": "char_557",
+        "name": "Shinmura2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 341
+    },
+    {
+        "id": "char_558",
+        "name": "Shintaka2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 3771
+    },
+    {
+        "id": "char_559",
+        "name": "Shinichi2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 244
+    },
+    {
+        "id": "char_560",
+        "name": "Shinjun2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6022
+    },
+    {
+        "id": "char_561",
+        "name": "Yukimaru2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7155
+    },
+    {
+        "id": "char_562",
+        "name": "Yukisuke2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8796
+    },
+    {
+        "id": "char_563",
+        "name": "Yukihiko2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4873
+    },
+    {
+        "id": "char_564",
+        "name": "Yukitaro2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 8548
+    },
+    {
+        "id": "char_565",
+        "name": "Yukimi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 5774
+    },
+    {
+        "id": "char_566",
+        "name": "Yukishi2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 8089
+    },
+    {
+        "id": "char_567",
+        "name": "Yukiya2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 9487
+    },
+    {
+        "id": "char_568",
+        "name": "Yukiko2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 2790
+    },
+    {
+        "id": "char_569",
+        "name": "Yukito2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 2976
+    },
+    {
+        "id": "char_570",
+        "name": "Yukinobu2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9802
+    },
+    {
+        "id": "char_571",
+        "name": "Yukizumi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 8377
+    },
+    {
+        "id": "char_572",
+        "name": "Yukihira2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 8138
+    },
+    {
+        "id": "char_573",
+        "name": "Yukisada2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7964
+    },
+    {
+        "id": "char_574",
+        "name": "Yukiyoshi2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 356
+    },
+    {
+        "id": "char_575",
+        "name": "Yukikane2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 8343
+    },
+    {
+        "id": "char_576",
+        "name": "Yukiharu2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5060
+    },
+    {
+        "id": "char_577",
+        "name": "Yukimura2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5250
+    },
+    {
+        "id": "char_578",
+        "name": "Yukitaka2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2292
+    },
+    {
+        "id": "char_579",
+        "name": "Yukiichi2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 689
+    },
+    {
+        "id": "char_580",
+        "name": "Yukijun2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 7514
+    },
+    {
+        "id": "char_581",
+        "name": "Nobumaru2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4914
+    },
+    {
+        "id": "char_582",
+        "name": "Nobusuke2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 8362
+    },
+    {
+        "id": "char_583",
+        "name": "Nobuhiko2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1186
+    },
+    {
+        "id": "char_584",
+        "name": "Nobutaro2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 5585
+    },
+    {
+        "id": "char_585",
+        "name": "Nobumi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6800
+    },
+    {
+        "id": "char_586",
+        "name": "Nobushi2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 7582
+    },
+    {
+        "id": "char_587",
+        "name": "Nobuya2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 6287
+    },
+    {
+        "id": "char_588",
+        "name": "Nobuko2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 271
+    },
+    {
+        "id": "char_589",
+        "name": "Nobuto2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 7755
+    },
+    {
+        "id": "char_590",
+        "name": "Nobunobu2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 525
+    },
+    {
+        "id": "char_591",
+        "name": "Nobuzumi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6904
+    },
+    {
+        "id": "char_592",
+        "name": "Nobuhira2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5963
+    },
+    {
+        "id": "char_593",
+        "name": "Nobusada2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 779
+    },
+    {
+        "id": "char_594",
+        "name": "Nobuyoshi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7197
+    },
+    {
+        "id": "char_595",
+        "name": "Nobukane2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8701
+    },
+    {
+        "id": "char_596",
+        "name": "Nobuharu2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8637
+    },
+    {
+        "id": "char_597",
+        "name": "Nobumura2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5029
+    },
+    {
+        "id": "char_598",
+        "name": "Nobutaka2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 174
+    },
+    {
+        "id": "char_599",
+        "name": "Nobuichi2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 3822
+    },
+    {
+        "id": "char_600",
+        "name": "Nobujun2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 6918
+    },
+    {
+        "id": "char_601",
+        "name": "Soramaru2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 5438
+    },
+    {
+        "id": "char_602",
+        "name": "Sorasuke2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8376
+    },
+    {
+        "id": "char_603",
+        "name": "Sorahiko2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3187
+    },
+    {
+        "id": "char_604",
+        "name": "Sorataro2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3469
+    },
+    {
+        "id": "char_605",
+        "name": "Sorami2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3570
+    },
+    {
+        "id": "char_606",
+        "name": "Sorashi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9080
+    },
+    {
+        "id": "char_607",
+        "name": "Soraya2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 1857
+    },
+    {
+        "id": "char_608",
+        "name": "Sorako2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 8621
+    },
+    {
+        "id": "char_609",
+        "name": "Sorato2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6660
+    },
+    {
+        "id": "char_610",
+        "name": "Soranobu2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4840
+    },
+    {
+        "id": "char_611",
+        "name": "Sorazumi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 1444
+    },
+    {
+        "id": "char_612",
+        "name": "Sorahira2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 5679
+    },
+    {
+        "id": "char_613",
+        "name": "Sorasada2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 9956
+    },
+    {
+        "id": "char_614",
+        "name": "Sorayoshi2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 7080
+    },
+    {
+        "id": "char_615",
+        "name": "Sorakane2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6822
+    },
+    {
+        "id": "char_616",
+        "name": "Soraharu2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 2484
+    },
+    {
+        "id": "char_617",
+        "name": "Soramura2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9398
+    },
+    {
+        "id": "char_618",
+        "name": "Sorataka2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5264
+    },
+    {
+        "id": "char_619",
+        "name": "Soraichi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 2218
+    },
+    {
+        "id": "char_620",
+        "name": "Sorajun2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 7031
+    },
+    {
+        "id": "char_621",
+        "name": "Ryomaru2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5874
+    },
+    {
+        "id": "char_622",
+        "name": "Ryosuke2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 892
+    },
+    {
+        "id": "char_623",
+        "name": "Ryohiko2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3704
+    },
+    {
+        "id": "char_624",
+        "name": "Ryotaro2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 175
+    },
+    {
+        "id": "char_625",
+        "name": "Ryomi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 3066
+    },
+    {
+        "id": "char_626",
+        "name": "Ryoshi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 4688
+    },
+    {
+        "id": "char_627",
+        "name": "Ryoya2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 5752
+    },
+    {
+        "id": "char_628",
+        "name": "Ryoko2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3832
+    },
+    {
+        "id": "char_629",
+        "name": "Ryoto2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7718
+    },
+    {
+        "id": "char_630",
+        "name": "Ryonobu2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 237
+    },
+    {
+        "id": "char_631",
+        "name": "Ryozumi2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3543
+    },
+    {
+        "id": "char_632",
+        "name": "Ryohira2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4946
+    },
+    {
+        "id": "char_633",
+        "name": "Ryosada2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 775
+    },
+    {
+        "id": "char_634",
+        "name": "Ryoyoshi2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6006
+    },
+    {
+        "id": "char_635",
+        "name": "Ryokane2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3663
+    },
+    {
+        "id": "char_636",
+        "name": "Ryoharu2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1431
+    },
+    {
+        "id": "char_637",
+        "name": "Ryomura2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4725
+    },
+    {
+        "id": "char_638",
+        "name": "Ryotaka2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1402
+    },
+    {
+        "id": "char_639",
+        "name": "Ryoichi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 2155
+    },
+    {
+        "id": "char_640",
+        "name": "Ryojun2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 2156
+    },
+    {
+        "id": "char_641",
+        "name": "Hanamaru2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 3341
+    },
+    {
+        "id": "char_642",
+        "name": "Hanasuke2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6607
+    },
+    {
+        "id": "char_643",
+        "name": "Hanahiko2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9123
+    },
+    {
+        "id": "char_644",
+        "name": "Hanataro2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 9610
+    },
+    {
+        "id": "char_645",
+        "name": "Hanami2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 3302
+    },
+    {
+        "id": "char_646",
+        "name": "Hanashi2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 4507
+    },
+    {
+        "id": "char_647",
+        "name": "Hanaya2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 293
+    },
+    {
+        "id": "char_648",
+        "name": "Hanako2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 8303
+    },
+    {
+        "id": "char_649",
+        "name": "Hanato2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 1839
+    },
+    {
+        "id": "char_650",
+        "name": "Hananobu2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1336
+    },
+    {
+        "id": "char_651",
+        "name": "Hanazumi2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 7260
+    },
+    {
+        "id": "char_652",
+        "name": "Hanahira2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6785
+    },
+    {
+        "id": "char_653",
+        "name": "Hanasada2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 8570
+    },
+    {
+        "id": "char_654",
+        "name": "Hanayoshi2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 621
+    },
+    {
+        "id": "char_655",
+        "name": "Hanakane2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2879
+    },
+    {
+        "id": "char_656",
+        "name": "Hanaharu2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4725
+    },
+    {
+        "id": "char_657",
+        "name": "Hanamura2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 3892
+    },
+    {
+        "id": "char_658",
+        "name": "Hanataka2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3340
+    },
+    {
+        "id": "char_659",
+        "name": "Hanaichi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5088
+    },
+    {
+        "id": "char_660",
+        "name": "Hanajun2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5653
+    },
+    {
+        "id": "char_661",
+        "name": "Kenmaru2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 3057
+    },
+    {
+        "id": "char_662",
+        "name": "Kensuke2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 8074
+    },
+    {
+        "id": "char_663",
+        "name": "Kenhiko2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 9956
+    },
+    {
+        "id": "char_664",
+        "name": "Kentaro2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5740
+    },
+    {
+        "id": "char_665",
+        "name": "Kenmi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2392
+    },
+    {
+        "id": "char_666",
+        "name": "Kenshi2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1749
+    },
+    {
+        "id": "char_667",
+        "name": "Kenya2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 7605
+    },
+    {
+        "id": "char_668",
+        "name": "Kenko2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 9614
+    },
+    {
+        "id": "char_669",
+        "name": "Kento2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5991
+    },
+    {
+        "id": "char_670",
+        "name": "Kennobu2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4074
+    },
+    {
+        "id": "char_671",
+        "name": "Kenzumi2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4803
+    },
+    {
+        "id": "char_672",
+        "name": "Kenhira2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5620
+    },
+    {
+        "id": "char_673",
+        "name": "Kensada2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 519
+    },
+    {
+        "id": "char_674",
+        "name": "Kenyoshi2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 7043
+    },
+    {
+        "id": "char_675",
+        "name": "Kenkane2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9621
+    },
+    {
+        "id": "char_676",
+        "name": "Kenharu2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 2552
+    },
+    {
+        "id": "char_677",
+        "name": "Kenmura2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7170
+    },
+    {
+        "id": "char_678",
+        "name": "Kentaka2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 8892
+    },
+    {
+        "id": "char_679",
+        "name": "Kenichi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8216
+    },
+    {
+        "id": "char_680",
+        "name": "Kenjun2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 8699
+    },
+    {
+        "id": "char_681",
+        "name": "Takumimaru2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9383
+    },
+    {
+        "id": "char_682",
+        "name": "Takumisuke2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9693
+    },
+    {
+        "id": "char_683",
+        "name": "Takumihiko2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 8447
+    },
+    {
+        "id": "char_684",
+        "name": "Takumitaro2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 8148
+    },
+    {
+        "id": "char_685",
+        "name": "Takumimi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6522
+    },
+    {
+        "id": "char_686",
+        "name": "Takumishi2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 1443
+    },
+    {
+        "id": "char_687",
+        "name": "Takumiya2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 1322
+    },
+    {
+        "id": "char_688",
+        "name": "Takumiko2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 781
+    },
+    {
+        "id": "char_689",
+        "name": "Takumito2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 9049
+    },
+    {
+        "id": "char_690",
+        "name": "Takuminobu2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 5600
+    },
+    {
+        "id": "char_691",
+        "name": "Takumizumi2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4530
+    },
+    {
+        "id": "char_692",
+        "name": "Takumihira2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 3402
+    },
+    {
+        "id": "char_693",
+        "name": "Takumisada2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 8902
+    },
+    {
+        "id": "char_694",
+        "name": "Takumiyoshi2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 1620
+    },
+    {
+        "id": "char_695",
+        "name": "Takumikane2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 8044
+    },
+    {
+        "id": "char_696",
+        "name": "Takumiharu2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 357
+    },
+    {
+        "id": "char_697",
+        "name": "Takumimura2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7966
+    },
+    {
+        "id": "char_698",
+        "name": "Takumitaka2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6414
+    },
+    {
+        "id": "char_699",
+        "name": "Takumiichi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 1211
+    },
+    {
+        "id": "char_700",
+        "name": "Takumijun2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 2854
+    },
+    {
+        "id": "char_701",
+        "name": "Daichimaru2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 8300
+    },
+    {
+        "id": "char_702",
+        "name": "Daichisuke2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1692
+    },
+    {
+        "id": "char_703",
+        "name": "Daichihiko2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6752
+    },
+    {
+        "id": "char_704",
+        "name": "Daichitaro2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1909
+    },
+    {
+        "id": "char_705",
+        "name": "Daichimi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7047
+    },
+    {
+        "id": "char_706",
+        "name": "Daichishi2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 3972
+    },
+    {
+        "id": "char_707",
+        "name": "Daichiya2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1276
+    },
+    {
+        "id": "char_708",
+        "name": "Daichiko2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 2570
+    },
+    {
+        "id": "char_709",
+        "name": "Daichito2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 7868
+    },
+    {
+        "id": "char_710",
+        "name": "Daichinobu2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 926
+    },
+    {
+        "id": "char_711",
+        "name": "Daichizumi2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7118
+    },
+    {
+        "id": "char_712",
+        "name": "Daichihira2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 9810
+    },
+    {
+        "id": "char_713",
+        "name": "Daichisada2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 536
+    },
+    {
+        "id": "char_714",
+        "name": "Daichiyoshi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 6247
+    },
+    {
+        "id": "char_715",
+        "name": "Daichikane2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 2752
+    },
+    {
+        "id": "char_716",
+        "name": "Daichiharu2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 2203
+    },
+    {
+        "id": "char_717",
+        "name": "Daichimura2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1757
+    },
+    {
+        "id": "char_718",
+        "name": "Daichitaka2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7038
+    },
+    {
+        "id": "char_719",
+        "name": "Daichiichi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2303
+    },
+    {
+        "id": "char_720",
+        "name": "Daichijun2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 672
+    },
+    {
+        "id": "char_721",
+        "name": "Kaorumaru2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 9396
+    },
+    {
+        "id": "char_722",
+        "name": "Kaorusuke2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6958
+    },
+    {
+        "id": "char_723",
+        "name": "Kaoruhiko2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9676
+    },
+    {
+        "id": "char_724",
+        "name": "Kaorutaro2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 9055
+    },
+    {
+        "id": "char_725",
+        "name": "Kaorumi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 6215
+    },
+    {
+        "id": "char_726",
+        "name": "Kaorushi2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8899
+    },
+    {
+        "id": "char_727",
+        "name": "Kaoruya2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 623
+    },
+    {
+        "id": "char_728",
+        "name": "Kaoruko2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 9131
+    },
+    {
+        "id": "char_729",
+        "name": "Kaoruto2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 828
+    },
+    {
+        "id": "char_730",
+        "name": "Kaorunobu2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 934
+    },
+    {
+        "id": "char_731",
+        "name": "Kaoruzumi2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 199
+    },
+    {
+        "id": "char_732",
+        "name": "Kaoruhira2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 9002
+    },
+    {
+        "id": "char_733",
+        "name": "Kaorusada2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 7469
+    },
+    {
+        "id": "char_734",
+        "name": "Kaoruyoshi2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6359
+    },
+    {
+        "id": "char_735",
+        "name": "Kaorukane2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 561
+    },
+    {
+        "id": "char_736",
+        "name": "Kaoruharu2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1247
+    },
+    {
+        "id": "char_737",
+        "name": "Kaorumura2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 9042
+    },
+    {
+        "id": "char_738",
+        "name": "Kaorutaka2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 5812
+    },
+    {
+        "id": "char_739",
+        "name": "Kaoruichi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4388
+    },
+    {
+        "id": "char_740",
+        "name": "Kaorujun2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4551
+    },
+    {
+        "id": "char_741",
+        "name": "Suzumaru2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 3189
+    },
+    {
+        "id": "char_742",
+        "name": "Suzusuke2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9405
+    },
+    {
+        "id": "char_743",
+        "name": "Suzuhiko2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9396
+    },
+    {
+        "id": "char_744",
+        "name": "Suzutaro2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 8867
+    },
+    {
+        "id": "char_745",
+        "name": "Suzumi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 1825
+    },
+    {
+        "id": "char_746",
+        "name": "Suzushi2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2399
+    },
+    {
+        "id": "char_747",
+        "name": "Suzuya2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 6970
+    },
+    {
+        "id": "char_748",
+        "name": "Suzuko2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 9554
+    },
+    {
+        "id": "char_749",
+        "name": "Suzuto2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 745
+    },
+    {
+        "id": "char_750",
+        "name": "Suzunobu2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 8720
+    },
+    {
+        "id": "char_751",
+        "name": "Suzuzumi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 918
+    },
+    {
+        "id": "char_752",
+        "name": "Suzuhira2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 3577
+    },
+    {
+        "id": "char_753",
+        "name": "Suzusada2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 482
+    },
+    {
+        "id": "char_754",
+        "name": "Suzuyoshi2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 6786
+    },
+    {
+        "id": "char_755",
+        "name": "Suzukane2",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7272
+    },
+    {
+        "id": "char_756",
+        "name": "Suzuharu2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1766
+    },
+    {
+        "id": "char_757",
+        "name": "Suzumura2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1206
+    },
+    {
+        "id": "char_758",
+        "name": "Suzutaka2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 7397
+    },
+    {
+        "id": "char_759",
+        "name": "Suzuichi2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5722
+    },
+    {
+        "id": "char_760",
+        "name": "Suzujun2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 8942
+    },
+    {
+        "id": "char_761",
+        "name": "Renmaru2",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 8282
+    },
+    {
+        "id": "char_762",
+        "name": "Rensuke2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 3270
+    },
+    {
+        "id": "char_763",
+        "name": "Renhiko2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2419
+    },
+    {
+        "id": "char_764",
+        "name": "Rentaro2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8393
+    },
+    {
+        "id": "char_765",
+        "name": "Renmi2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 7661
+    },
+    {
+        "id": "char_766",
+        "name": "Renshi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 805
+    },
+    {
+        "id": "char_767",
+        "name": "Renya2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 7441
+    },
+    {
+        "id": "char_768",
+        "name": "Renko2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9546
+    },
+    {
+        "id": "char_769",
+        "name": "Rento2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 500
+    },
+    {
+        "id": "char_770",
+        "name": "Rennobu2",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 6323
+    },
+    {
+        "id": "char_771",
+        "name": "Renzumi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9501
+    },
+    {
+        "id": "char_772",
+        "name": "Renhira2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 5526
+    },
+    {
+        "id": "char_773",
+        "name": "Rensada2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 874
+    },
+    {
+        "id": "char_774",
+        "name": "Renyoshi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 3409
+    },
+    {
+        "id": "char_775",
+        "name": "Renkane2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7539
+    },
+    {
+        "id": "char_776",
+        "name": "Renharu2",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 317
+    },
+    {
+        "id": "char_777",
+        "name": "Renmura2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1512
+    },
+    {
+        "id": "char_778",
+        "name": "Rentaka2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2716
+    },
+    {
+        "id": "char_779",
+        "name": "Renichi2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9511
+    },
+    {
+        "id": "char_780",
+        "name": "Renjun2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4849
+    },
+    {
+        "id": "char_781",
+        "name": "Katsumaru2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 9440
+    },
+    {
+        "id": "char_782",
+        "name": "Katsusuke2",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4826
+    },
+    {
+        "id": "char_783",
+        "name": "Katsuhiko2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 810
+    },
+    {
+        "id": "char_784",
+        "name": "Katsutaro2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 1711
+    },
+    {
+        "id": "char_785",
+        "name": "Katsumi2",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5538
+    },
+    {
+        "id": "char_786",
+        "name": "Katsushi2",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 7221
+    },
+    {
+        "id": "char_787",
+        "name": "Katsuya2",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 977
+    },
+    {
+        "id": "char_788",
+        "name": "Katsuko2",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 2121
+    },
+    {
+        "id": "char_789",
+        "name": "Katsuto2",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 115
+    },
+    {
+        "id": "char_790",
+        "name": "Katsunobu2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1339
+    },
+    {
+        "id": "char_791",
+        "name": "Katsuzumi2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4745
+    },
+    {
+        "id": "char_792",
+        "name": "Katsuhira2",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 9508
+    },
+    {
+        "id": "char_793",
+        "name": "Katsusada2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4116
+    },
+    {
+        "id": "char_794",
+        "name": "Katsuyoshi2",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 8056
+    },
+    {
+        "id": "char_795",
+        "name": "Katsukane2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4917
+    },
+    {
+        "id": "char_796",
+        "name": "Katsuharu2",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 1212
+    },
+    {
+        "id": "char_797",
+        "name": "Katsumura2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 714
+    },
+    {
+        "id": "char_798",
+        "name": "Katsutaka2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4369
+    },
+    {
+        "id": "char_799",
+        "name": "Katsuichi2",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 9367
+    },
+    {
+        "id": "char_800",
+        "name": "Katsujun2",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 4386
+    },
+    {
+        "id": "char_801",
+        "name": "Akimaru3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 857
+    },
+    {
+        "id": "char_802",
+        "name": "Akisuke3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 9019
+    },
+    {
+        "id": "char_803",
+        "name": "Akihiko3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 8462
+    },
+    {
+        "id": "char_804",
+        "name": "Akitaro3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 412
+    },
+    {
+        "id": "char_805",
+        "name": "Akimi3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3413
+    },
+    {
+        "id": "char_806",
+        "name": "Akishi3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6096
+    },
+    {
+        "id": "char_807",
+        "name": "Akiya3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 2648
+    },
+    {
+        "id": "char_808",
+        "name": "Akiko3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2276
+    },
+    {
+        "id": "char_809",
+        "name": "Akito3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7260
+    },
+    {
+        "id": "char_810",
+        "name": "Akinobu3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7725
+    },
+    {
+        "id": "char_811",
+        "name": "Akizumi3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 6732
+    },
+    {
+        "id": "char_812",
+        "name": "Akihira3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 927
+    },
+    {
+        "id": "char_813",
+        "name": "Akisada3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 1109
+    },
+    {
+        "id": "char_814",
+        "name": "Akiyoshi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4366
+    },
+    {
+        "id": "char_815",
+        "name": "Akikane3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 1057
+    },
+    {
+        "id": "char_816",
+        "name": "Akiharu3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 7693
+    },
+    {
+        "id": "char_817",
+        "name": "Akimura3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 3859
+    },
+    {
+        "id": "char_818",
+        "name": "Akitaka3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3310
+    },
+    {
+        "id": "char_819",
+        "name": "Akiichi3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 8193
+    },
+    {
+        "id": "char_820",
+        "name": "Akijun3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 3348
+    },
+    {
+        "id": "char_821",
+        "name": "Rinmaru3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4223
+    },
+    {
+        "id": "char_822",
+        "name": "Rinsuke3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 6286
+    },
+    {
+        "id": "char_823",
+        "name": "Rinhiko3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9935
+    },
+    {
+        "id": "char_824",
+        "name": "Rintaro3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6623
+    },
+    {
+        "id": "char_825",
+        "name": "Rinmi3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 4246
+    },
+    {
+        "id": "char_826",
+        "name": "Rinshi3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 8579
+    },
+    {
+        "id": "char_827",
+        "name": "Rinya3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 189
+    },
+    {
+        "id": "char_828",
+        "name": "Rinko3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5183
+    },
+    {
+        "id": "char_829",
+        "name": "Rinto3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3263
+    },
+    {
+        "id": "char_830",
+        "name": "Rinnobu3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3142
+    },
+    {
+        "id": "char_831",
+        "name": "Rinzumi3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 1998
+    },
+    {
+        "id": "char_832",
+        "name": "Rinhira3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5036
+    },
+    {
+        "id": "char_833",
+        "name": "Rinsada3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 1579
+    },
+    {
+        "id": "char_834",
+        "name": "Rinyoshi3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7601
+    },
+    {
+        "id": "char_835",
+        "name": "Rinkane3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7673
+    },
+    {
+        "id": "char_836",
+        "name": "Rinharu3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 9827
+    },
+    {
+        "id": "char_837",
+        "name": "Rinmura3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7834
+    },
+    {
+        "id": "char_838",
+        "name": "Rintaka3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9479
+    },
+    {
+        "id": "char_839",
+        "name": "Rinichi3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 4284
+    },
+    {
+        "id": "char_840",
+        "name": "Rinjun3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 4816
+    },
+    {
+        "id": "char_841",
+        "name": "Hiromaru3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 8100
+    },
+    {
+        "id": "char_842",
+        "name": "Hirosuke3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2155
+    },
+    {
+        "id": "char_843",
+        "name": "Hirohiko3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 9007
+    },
+    {
+        "id": "char_844",
+        "name": "Hirotaro3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1792
+    },
+    {
+        "id": "char_845",
+        "name": "Hiromi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 7867
+    },
+    {
+        "id": "char_846",
+        "name": "Hiroshi3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 3901
+    },
+    {
+        "id": "char_847",
+        "name": "Hiroya3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9970
+    },
+    {
+        "id": "char_848",
+        "name": "Hiroko3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 1115
+    },
+    {
+        "id": "char_849",
+        "name": "Hiroto3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 8454
+    },
+    {
+        "id": "char_850",
+        "name": "Hironobu3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9779
+    },
+    {
+        "id": "char_851",
+        "name": "Hirozumi3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 9915
+    },
+    {
+        "id": "char_852",
+        "name": "Hirohira3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 495
+    },
+    {
+        "id": "char_853",
+        "name": "Hirosada3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 6440
+    },
+    {
+        "id": "char_854",
+        "name": "Hiroyoshi3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 8414
+    },
+    {
+        "id": "char_855",
+        "name": "Hirokane3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1840
+    },
+    {
+        "id": "char_856",
+        "name": "Hiroharu3",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4915
+    },
+    {
+        "id": "char_857",
+        "name": "Hiromura3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4299
+    },
+    {
+        "id": "char_858",
+        "name": "Hirotaka3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6393
+    },
+    {
+        "id": "char_859",
+        "name": "Hiroichi3",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 3501
+    },
+    {
+        "id": "char_860",
+        "name": "Hirojun3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2528
+    },
+    {
+        "id": "char_861",
+        "name": "Kazemaru3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 2253
+    },
+    {
+        "id": "char_862",
+        "name": "Kazesuke3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 9387
+    },
+    {
+        "id": "char_863",
+        "name": "Kazehiko3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4822
+    },
+    {
+        "id": "char_864",
+        "name": "Kazetaro3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 3365
+    },
+    {
+        "id": "char_865",
+        "name": "Kazemi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6839
+    },
+    {
+        "id": "char_866",
+        "name": "Kazeshi3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 2227
+    },
+    {
+        "id": "char_867",
+        "name": "Kazeya3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 6370
+    },
+    {
+        "id": "char_868",
+        "name": "Kazeko3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5711
+    },
+    {
+        "id": "char_869",
+        "name": "Kazeto3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 7481
+    },
+    {
+        "id": "char_870",
+        "name": "Kazenobu3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 4607
+    },
+    {
+        "id": "char_871",
+        "name": "Kazezumi3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 8543
+    },
+    {
+        "id": "char_872",
+        "name": "Kazehira3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5452
+    },
+    {
+        "id": "char_873",
+        "name": "Kazesada3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 7740
+    },
+    {
+        "id": "char_874",
+        "name": "Kazeyoshi3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5742
+    },
+    {
+        "id": "char_875",
+        "name": "Kazekane3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 2922
+    },
+    {
+        "id": "char_876",
+        "name": "Kazeharu3",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 5678
+    },
+    {
+        "id": "char_877",
+        "name": "Kazemura3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2059
+    },
+    {
+        "id": "char_878",
+        "name": "Kazetaka3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7416
+    },
+    {
+        "id": "char_879",
+        "name": "Kazeichi3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 4738
+    },
+    {
+        "id": "char_880",
+        "name": "Kazejun3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 7915
+    },
+    {
+        "id": "char_881",
+        "name": "Toshimaru3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2209
+    },
+    {
+        "id": "char_882",
+        "name": "Toshisuke3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 5705
+    },
+    {
+        "id": "char_883",
+        "name": "Toshihiko3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 5319
+    },
+    {
+        "id": "char_884",
+        "name": "Toshitaro3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1278
+    },
+    {
+        "id": "char_885",
+        "name": "Toshimi3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 5660
+    },
+    {
+        "id": "char_886",
+        "name": "Toshishi3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 462
+    },
+    {
+        "id": "char_887",
+        "name": "Toshiya3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2281
+    },
+    {
+        "id": "char_888",
+        "name": "Toshiko3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 3743
+    },
+    {
+        "id": "char_889",
+        "name": "Toshito3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 2477
+    },
+    {
+        "id": "char_890",
+        "name": "Toshinobu3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 3553
+    },
+    {
+        "id": "char_891",
+        "name": "Toshizumi3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4618
+    },
+    {
+        "id": "char_892",
+        "name": "Toshihira3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 7997
+    },
+    {
+        "id": "char_893",
+        "name": "Toshisada3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 3872
+    },
+    {
+        "id": "char_894",
+        "name": "Toshiyoshi3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3808
+    },
+    {
+        "id": "char_895",
+        "name": "Toshikane3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 4478
+    },
+    {
+        "id": "char_896",
+        "name": "Toshiharu3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 693
+    },
+    {
+        "id": "char_897",
+        "name": "Toshimura3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 1300
+    },
+    {
+        "id": "char_898",
+        "name": "Toshitaka3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4806
+    },
+    {
+        "id": "char_899",
+        "name": "Toshiichi3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 8604
+    },
+    {
+        "id": "char_900",
+        "name": "Toshijun3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 6401
+    },
+    {
+        "id": "char_901",
+        "name": "Minamaru3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 4998
+    },
+    {
+        "id": "char_902",
+        "name": "Minasuke3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 9689
+    },
+    {
+        "id": "char_903",
+        "name": "Minahiko3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4175
+    },
+    {
+        "id": "char_904",
+        "name": "Minataro3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 8307
+    },
+    {
+        "id": "char_905",
+        "name": "Minami3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 1081
+    },
+    {
+        "id": "char_906",
+        "name": "Minashi3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 125
+    },
+    {
+        "id": "char_907",
+        "name": "Minaya3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5145
+    },
+    {
+        "id": "char_908",
+        "name": "Minako3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 7334
+    },
+    {
+        "id": "char_909",
+        "name": "Minato3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 7684
+    },
+    {
+        "id": "char_910",
+        "name": "Minanobu3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 6627
+    },
+    {
+        "id": "char_911",
+        "name": "Minazumi3",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 7679
+    },
+    {
+        "id": "char_912",
+        "name": "Minahira3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2033
+    },
+    {
+        "id": "char_913",
+        "name": "Minasada3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7769
+    },
+    {
+        "id": "char_914",
+        "name": "Minayoshi3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 8613
+    },
+    {
+        "id": "char_915",
+        "name": "Minakane3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 5674
+    },
+    {
+        "id": "char_916",
+        "name": "Minaharu3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 4827
+    },
+    {
+        "id": "char_917",
+        "name": "Minamura3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 7245
+    },
+    {
+        "id": "char_918",
+        "name": "Minataka3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 5258
+    },
+    {
+        "id": "char_919",
+        "name": "Minaichi3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9544
+    },
+    {
+        "id": "char_920",
+        "name": "Minajun3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 8769
+    },
+    {
+        "id": "char_921",
+        "name": "Kuromaru3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 683
+    },
+    {
+        "id": "char_922",
+        "name": "Kurosuke3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 9753
+    },
+    {
+        "id": "char_923",
+        "name": "Kurohiko3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 1046
+    },
+    {
+        "id": "char_924",
+        "name": "Kurotaro3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 6192
+    },
+    {
+        "id": "char_925",
+        "name": "Kuromi3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 3332
+    },
+    {
+        "id": "char_926",
+        "name": "Kuroshi3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 3012
+    },
+    {
+        "id": "char_927",
+        "name": "Kuroya3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 1574
+    },
+    {
+        "id": "char_928",
+        "name": "Kuroko3",
+        "location": "Kiri",
+        "health": "Critical",
+        "power": 9361
+    },
+    {
+        "id": "char_929",
+        "name": "Kuroto3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 6468
+    },
+    {
+        "id": "char_930",
+        "name": "Kuronobu3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 5605
+    },
+    {
+        "id": "char_931",
+        "name": "Kurozumi3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 9336
+    },
+    {
+        "id": "char_932",
+        "name": "Kurohira3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6958
+    },
+    {
+        "id": "char_933",
+        "name": "Kurosada3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 3387
+    },
+    {
+        "id": "char_934",
+        "name": "Kuroyoshi3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7645
+    },
+    {
+        "id": "char_935",
+        "name": "Kurokane3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 192
+    },
+    {
+        "id": "char_936",
+        "name": "Kuroharu3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 4921
+    },
+    {
+        "id": "char_937",
+        "name": "Kuromura3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 6222
+    },
+    {
+        "id": "char_938",
+        "name": "Kurotaka3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 481
+    },
+    {
+        "id": "char_939",
+        "name": "Kuroichi3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2182
+    },
+    {
+        "id": "char_940",
+        "name": "Kurojun3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 591
+    },
+    {
+        "id": "char_941",
+        "name": "Shinmaru3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 710
+    },
+    {
+        "id": "char_942",
+        "name": "Shinsuke3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 2420
+    },
+    {
+        "id": "char_943",
+        "name": "Shinhiko3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 6517
+    },
+    {
+        "id": "char_944",
+        "name": "Shintaro3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 9006
+    },
+    {
+        "id": "char_945",
+        "name": "Shinmi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6738
+    },
+    {
+        "id": "char_946",
+        "name": "Shinshi3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 8859
+    },
+    {
+        "id": "char_947",
+        "name": "Shinya3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 2304
+    },
+    {
+        "id": "char_948",
+        "name": "Shinko3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 3086
+    },
+    {
+        "id": "char_949",
+        "name": "Shinto3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7424
+    },
+    {
+        "id": "char_950",
+        "name": "Shinnobu3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 2453
+    },
+    {
+        "id": "char_951",
+        "name": "Shinzumi3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 808
+    },
+    {
+        "id": "char_952",
+        "name": "Shinhira3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4461
+    },
+    {
+        "id": "char_953",
+        "name": "Shinsada3",
+        "location": "Konoha",
+        "health": "Injured",
+        "power": 3265
+    },
+    {
+        "id": "char_954",
+        "name": "Shinyoshi3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 7002
+    },
+    {
+        "id": "char_955",
+        "name": "Shinkane3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 405
+    },
+    {
+        "id": "char_956",
+        "name": "Shinharu3",
+        "location": "Suna",
+        "health": "Critical",
+        "power": 4557
+    },
+    {
+        "id": "char_957",
+        "name": "Shinmura3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2396
+    },
+    {
+        "id": "char_958",
+        "name": "Shintaka3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 1841
+    },
+    {
+        "id": "char_959",
+        "name": "Shinichi3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 7671
+    },
+    {
+        "id": "char_960",
+        "name": "Shinjun3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 8357
+    },
+    {
+        "id": "char_961",
+        "name": "Yukimaru3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 4189
+    },
+    {
+        "id": "char_962",
+        "name": "Yukisuke3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 1934
+    },
+    {
+        "id": "char_963",
+        "name": "Yukihiko3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 9190
+    },
+    {
+        "id": "char_964",
+        "name": "Yukitaro3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 4781
+    },
+    {
+        "id": "char_965",
+        "name": "Yukimi3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 664
+    },
+    {
+        "id": "char_966",
+        "name": "Yukishi3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 4277
+    },
+    {
+        "id": "char_967",
+        "name": "Yukiya3",
+        "location": "Kiri",
+        "health": "Healthy",
+        "power": 3557
+    },
+    {
+        "id": "char_968",
+        "name": "Yukiko3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 1246
+    },
+    {
+        "id": "char_969",
+        "name": "Yukito3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7802
+    },
+    {
+        "id": "char_970",
+        "name": "Yukinobu3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 5132
+    },
+    {
+        "id": "char_971",
+        "name": "Yukizumi3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4293
+    },
+    {
+        "id": "char_972",
+        "name": "Yukihira3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 2999
+    },
+    {
+        "id": "char_973",
+        "name": "Yukisada3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 7573
+    },
+    {
+        "id": "char_974",
+        "name": "Yukiyoshi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 393
+    },
+    {
+        "id": "char_975",
+        "name": "Yukikane3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 3479
+    },
+    {
+        "id": "char_976",
+        "name": "Yukiharu3",
+        "location": "Iwa",
+        "health": "Injured",
+        "power": 7954
+    },
+    {
+        "id": "char_977",
+        "name": "Yukimura3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 1757
+    },
+    {
+        "id": "char_978",
+        "name": "Yukitaka3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 9950
+    },
+    {
+        "id": "char_979",
+        "name": "Yukiichi3",
+        "location": "Konoha",
+        "health": "Healthy",
+        "power": 4912
+    },
+    {
+        "id": "char_980",
+        "name": "Yukijun3",
+        "location": "Kumo",
+        "health": "Healthy",
+        "power": 9814
+    },
+    {
+        "id": "char_981",
+        "name": "Nobumaru3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 8668
+    },
+    {
+        "id": "char_982",
+        "name": "Nobusuke3",
+        "location": "Kumo",
+        "health": "Injured",
+        "power": 4234
+    },
+    {
+        "id": "char_983",
+        "name": "Nobuhiko3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 796
+    },
+    {
+        "id": "char_984",
+        "name": "Nobutaro3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 6606
+    },
+    {
+        "id": "char_985",
+        "name": "Nobumi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 4090
+    },
+    {
+        "id": "char_986",
+        "name": "Nobushi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6775
+    },
+    {
+        "id": "char_987",
+        "name": "Nobuya3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 6509
+    },
+    {
+        "id": "char_988",
+        "name": "Nobuko3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 2417
+    },
+    {
+        "id": "char_989",
+        "name": "Nobuto3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 3418
+    },
+    {
+        "id": "char_990",
+        "name": "Nobunobu3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 2553
+    },
+    {
+        "id": "char_991",
+        "name": "Nobuzumi3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 6256
+    },
+    {
+        "id": "char_992",
+        "name": "Nobuhira3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 4307
+    },
+    {
+        "id": "char_993",
+        "name": "Nobusada3",
+        "location": "Iwa",
+        "health": "Critical",
+        "power": 3408
+    },
+    {
+        "id": "char_994",
+        "name": "Nobuyoshi3",
+        "location": "Suna",
+        "health": "Injured",
+        "power": 9903
+    },
+    {
+        "id": "char_995",
+        "name": "Nobukane3",
+        "location": "Iwa",
+        "health": "Healthy",
+        "power": 3372
+    },
+    {
+        "id": "char_996",
+        "name": "Nobuharu3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 6077
+    },
+    {
+        "id": "char_997",
+        "name": "Nobumura3",
+        "location": "Konoha",
+        "health": "Critical",
+        "power": 7095
+    },
+    {
+        "id": "char_998",
+        "name": "Nobutaka3",
+        "location": "Suna",
+        "health": "Healthy",
+        "power": 5947
+    },
+    {
+        "id": "char_999",
+        "name": "Nobuichi3",
+        "location": "Kiri",
+        "health": "Injured",
+        "power": 7708
+    },
+    {
+        "id": "char_1000",
+        "name": "Nobujun3",
+        "location": "Kumo",
+        "health": "Critical",
+        "power": 1008
+    }
+]

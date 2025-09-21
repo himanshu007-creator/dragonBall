@@ -3,25 +3,176 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+    --background: #ffffff;
+    --foreground: #171717;
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+    :root {
+        --background: #0a0a0a;
+        --foreground: #ededed;
+    }
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+    color: var(--foreground);
+    background: #f8fafc;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+    .text-balance {
+        text-wrap: balance;
+    }
+
+    /* Custom scrollbar styles */
+    .scrollbar-thin {
+        scrollbar-width: thin;
+    }
+
+    .scrollbar-thumb-gray-300::-webkit-scrollbar-thumb {
+        background-color: #d1d5db;
+        border-radius: 0.25rem;
+    }
+
+    .scrollbar-track-gray-100::-webkit-scrollbar-track {
+        background-color: #f3f4f6;
+    }
+
+    .scrollbar-thin::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+    }
+
+    /* Custom scrollbar for filter panels */
+    .custom-scrollbar::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    .custom-scrollbar::-webkit-scrollbar-track {
+        background: #f1f5f9;
+        border-radius: 10px;
+    }
+
+    .custom-scrollbar::-webkit-scrollbar-thumb {
+        background: linear-gradient(180deg, #f97316, #3b82f6);
+        border-radius: 10px;
+    }
+
+    .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+        background: linear-gradient(180deg, #ea580c, #2563eb);
+    }
+}
+
+/* Custom range slider styles */
+.slider::-webkit-slider-thumb {
+    appearance: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #f97316, #3b82f6);
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border: 2px solid white;
+    transition: all 0.2s ease;
+}
+
+.slider::-webkit-slider-thumb:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.slider::-moz-range-thumb {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #f97316, #3b82f6);
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    border: 2px solid white;
+    transition: all 0.2s ease;
+}
+
+.slider::-moz-range-thumb:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.slider:focus {
+    outline: none;
+}
+
+.slider:focus::-webkit-slider-thumb {
+    ring: 2px solid #f97316;
+    ring-offset: 2px;
+}
+
+/* Mobile-specific improvements */
+@media (max-width: 768px) {
+
+    /* Larger touch targets for mobile */
+    input[type="checkbox"] {
+        min-width: 20px;
+        min-height: 20px;
+    }
+
+    button {
+        min-height: 44px;
+        /* Apple's recommended minimum touch target */
+    }
+
+    /* Better spacing for mobile cards */
+    .mobile-card {
+        padding: 1.25rem;
+        margin-bottom: 0.5rem;
+    }
+
+    /* Improved mobile slider */
+    .slider::-webkit-slider-thumb {
+        height: 24px;
+        width: 24px;
+    }
+
+    .slider::-moz-range-thumb {
+        height: 24px;
+        width: 24px;
+    }
+
+    /* Better mobile dropdown */
+    .mobile-dropdown {
+        min-height: 48px;
+        font-size: 16px;
+        /* Prevents zoom on iOS */
+    }
+
+    /* Improved mobile text inputs */
+    input[type="text"],
+    input[type="number"] {
+        font-size: 16px;
+        /* Prevents zoom on iOS */
+        min-height: 44px;
+    }
+}
+
+/* Tablet-specific improvements */
+@media (min-width: 768px) and (max-width: 1024px) {
+
+    /* Slightly larger touch targets for tablets */
+    input[type="checkbox"] {
+        min-width: 18px;
+        min-height: 18px;
+    }
+
+    button {
+        min-height: 40px;
+    }
+}
+
+/* Animation improvements for mobile */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
 }
