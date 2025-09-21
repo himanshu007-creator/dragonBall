@@ -1,5 +1,4 @@
-import type { Meta, StoryObj } from '@storybook/react';
-import React from 'react';
+import type { Meta, StoryObj } from '@storybook/nextjs-vite';
 import { FilterPanel } from '../components/FilterPanel';
 import { FilterState } from '../types';
 
