@@ -1,6 +1,9 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { Character } from '@/types';
 
+// Force dynamic rendering for this API route
+export const dynamic = 'force-dynamic';
+
 // Cache for the loaded characters data
 let charactersCache: Character[] | null = null;
 

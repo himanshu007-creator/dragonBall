@@ -31,20 +31,39 @@ export async function fetchCharacters(
     const url = `/api/characters?${searchParams.toString()}`;
     console.log('🔄 Fetching characters from API:', url);
     
-    const response = await fetch(url);
-    console.log('📡 Response status:', response.status, response.statusText);
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
     
-    if (!response.ok) {
-      throw new APIError(
-        `Failed to fetch characters: ${response.statusText}`,
-        response.status,
-        response.statusText
-      );
+    try {
+      const response = await fetch(url, {
+        method: 'GET',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        signal: controller.signal,
+      });
+      clearTimeout(timeoutId);
+      console.log('📡 Response status:', response.status, response.statusText);
+      console.log('📡 Response headers:', Object.fromEntries(response.headers.entries()));
+      
+      if (!response.ok) {
+        throw new APIError(
+          `Failed to fetch characters: ${response.statusText}`,
+          response.status,
+          response.statusText
+        );
+      }
+      
+      const data = await response.json();
+      console.log('✅ Characters fetched successfully:', data.meta);
+      return data;
+    } catch (fetchError) {
+      clearTimeout(timeoutId);
+      if (fetchError instanceof Error && fetchError.name === 'AbortError') {
+        throw new APIError('Request timeout: The server took too long to respond');
+      }
+      throw fetchError;
     }
-    
-    const data = await response.json();
-    console.log('✅ Characters fetched successfully:', data.meta);
-    return data;
   } catch (error) {
     console.error('❌ API Error:', error);
     

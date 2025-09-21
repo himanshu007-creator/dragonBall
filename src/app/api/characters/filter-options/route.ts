@@ -1,6 +1,9 @@
 import { NextResponse } from 'next/server';
 import { Character } from '@/types';
 
+// Force dynamic rendering for this API route
+export const dynamic = 'force-dynamic';
+
 // Cache for the loaded characters data
 let charactersCache: Character[] | null = null;
 
@@ -14,11 +17,11 @@ async function loadCharacters(): Promise<Character[]> {
     // For now, we'll read from the public JSON file
     const fs = await import('fs/promises');
     const path = await import('path');
-    
+
     const filePath = path.join(process.cwd(), 'public', 'animeCharacters.json');
     const fileContent = await fs.readFile(filePath, 'utf-8');
     charactersCache = JSON.parse(fileContent);
-    
+
     return charactersCache!;
   } catch (error) {
     console.error('Error loading characters:', error);
@@ -29,11 +32,15 @@ async function loadCharacters(): Promise<Character[]> {
 export async function GET() {
   try {
     const characters = await loadCharacters();
-    
+
     // Extract unique values for filters
-    const locations = Array.from(new Set(characters.map(char => char.location))).sort();
-    const healthStates = Array.from(new Set(characters.map(char => char.health))).sort();
-    const maxPower = Math.max(...characters.map(char => char.power));
+    const locations = Array.from(
+      new Set(characters.map((char) => char.location))
+    ).sort();
+    const healthStates = Array.from(
+      new Set(characters.map((char) => char.health))
+    ).sort();
+    const maxPower = Math.max(...characters.map((char) => char.power));
 
     const response = {
       locations,
